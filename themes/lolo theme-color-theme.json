@@ -532,7 +532,7 @@
 		  "name": "Variables",
 		  "scope": "variable",
 		  "settings": {
-			"foreground": "#1495b5"
+			"foreground": "#d587af"
 		  }
 		},
 		{
@@ -1350,7 +1350,7 @@
 			"meta.property.object"
 		  ],
 		  "settings": {
-			"foreground": "#1495b5"
+			"foreground": "#a3097d"
 		  }
 		},
 		{
