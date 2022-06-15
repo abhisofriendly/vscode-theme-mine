@@ -2,8 +2,8 @@
     "name": "lolo-theme",
     "displayName": "lolo",
     "publisher": "abhisofriendly",
-    "description": "",
-    "version": "0.0.1",
+    "description": "cool vibe theme",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.66.0"
     },
