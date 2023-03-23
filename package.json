@@ -1,22 +1,22 @@
 {
-    "name": "lolo-theme",
-    "displayName": "lolo",
-    "publisher": "abhisofriendly",
-    "description": "cool vibe theme",
-    "version": "0.0.5",
-    "engines": {
-        "vscode": "^1.66.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "lolo theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/lolo theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "lolo-theme",
+  "displayName": "lolo",
+  "publisher": "abhisofriendly",
+  "description": "cool vibe theme",
+  "version": "0.0.7",
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "lolo theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lolo theme-color-theme.json"
+      }
+    ]
+  }
 }
