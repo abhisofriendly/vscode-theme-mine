@@ -33,3 +33,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added v0.1.2
 
 - change color scheme 1495b5 to 4fa0b4 globally
+
+### Added v0.1.3
+
+- change inactiveSelectionBackground scheme 1b2034 to 3b4053
+- change selectionBackground 272b3d to 46486e
