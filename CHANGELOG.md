@@ -38,3 +38,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - change inactiveSelectionBackground scheme 1b2034 to 3b4053
 - change selectionBackground 272b3d to 46486e
+
+### Added v0.1.4
+
+- change json key color scheme 4fa0b4 to 62e9ff

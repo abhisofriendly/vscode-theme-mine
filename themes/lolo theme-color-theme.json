@@ -5,7 +5,7 @@
       "name": "unison punctuation",
       "scope": "punctuation.definition.delayed.unison,punctuation.definition.list.begin.unison,punctuation.definition.list.end.unison,punctuation.definition.ability.begin.unison,punctuation.definition.ability.end.unison,punctuation.operator.assignment.as.unison,punctuation.separator.pipe.unison,punctuation.separator.delimiter.unison,punctuation.definition.hash.unison",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -26,7 +26,7 @@
       "name": "support.variable.magic.python",
       "scope": "support.variable.magic.python",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -68,7 +68,7 @@
       "name": "variable.language.rust",
       "scope": "variable.language.rust",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -82,7 +82,7 @@
       "name": "regexp constant character-class",
       "scope": "constant.other.character-class.regexp",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -138,14 +138,14 @@
       "name": "deleted.diff",
       "scope": "markup.deleted.diff",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
       "name": "c++ function",
       "scope": "meta.function.c,meta.function.cpp",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -204,7 +204,7 @@
       "name": "java source",
       "scope": "source.java",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -239,7 +239,7 @@
       "name": "java variable.name",
       "scope": "meta.definition.variable.name.java",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -350,7 +350,7 @@
       "name": "js/ts console",
       "scope": "support.type.object.console",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -625,7 +625,7 @@
       "name": "Class name php",
       "scope": "variable.other.class.php",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -765,7 +765,7 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -802,7 +802,7 @@
       "name": "Headings",
       "scope": "markup.heading",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -816,7 +816,7 @@
       "name": "Units",
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -851,21 +851,21 @@
       "name": "[VSCODE-CUSTOM] Markdown headings",
       "scope": "entity.name.section.markdown",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown heading Punctuation Definition",
       "scope": "punctuation.definition.heading.markdown",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
       "name": "punctuation.definition.list.begin.markdown",
       "scope": "punctuation.definition.list.begin.markdown",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -900,7 +900,7 @@
       "name": "[VSCODE-CUSTOM] Markdown List Punctuation Definition",
       "scope": "punctuation.definition.list.markdown",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -911,21 +911,21 @@
         "punctuation.definition.metadata.markdown"
       ],
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
       "name": "beginning.punctuation.definition.list.markdown",
       "scope": ["beginning.punctuation.definition.list.markdown"],
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition Link",
       "scope": "punctuation.definition.metadata.markdown",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -960,7 +960,7 @@
       "name": "Embedded",
       "scope": "punctuation.section.embedded, variable.interpolation",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -1009,14 +1009,14 @@
       "name": "Source Json Meta Structure Dictionary Json > String Quoted Json",
       "scope": "source.json meta.structure.dictionary.json > string.quoted.json",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#122a30"
       }
     },
     {
       "name": "Source Json Meta Structure Dictionary Json > String Quoted Json > Punctuation String",
       "scope": "source.json meta.structure.dictionary.json > string.quoted.json > punctuation.string",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -1037,14 +1037,14 @@
       "name": "[VSCODE-CUSTOM] JSON Property Name",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] JSON Punctuation for Property Name",
       "scope": "support.type.property-name.json punctuation",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -1240,7 +1240,7 @@
       "name": "sass selector",
       "scope": "selector.sass",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -1268,7 +1268,7 @@
       "name": "cs local variable",
       "scope": "entity.name.variable.local.cs",
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -1345,7 +1345,7 @@
       "name": "js func parameter",
       "scope": ["variable.parameter.function.js"],
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -1432,7 +1432,7 @@
       "name": "html/pug (jade) escaped characters and entities",
       "scope": ["constant.character.entity"],
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -1456,7 +1456,7 @@
       "name": "Clojure symbols",
       "scope": ["meta.symbol.clojure"],
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -1470,7 +1470,7 @@
       "name": "CoffeeScript Function Argument",
       "scope": ["meta.arguments.coffee", "variable.parameter.function.coffee"],
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -1484,7 +1484,7 @@
       "name": "Makefile prerequisities",
       "scope": ["meta.scope.prerequisites.makefile"],
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -1512,7 +1512,7 @@
       "name": "Groovy Variables",
       "scope": ["meta.definition.variable.name.groovy"],
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -1547,7 +1547,7 @@
       "name": "SQL Variables",
       "scope": ["text.variable", "text.bracketed"],
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -1575,7 +1575,7 @@
       "name": "heading 3, property",
       "scope": ["constant.character.character-class.regexp.xi"],
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
@@ -1667,7 +1667,7 @@
         "markup.heading.setext.2.markdown"
       ],
       "settings": {
-        "foreground": "#4fa0b4"
+        "foreground": "#62e9ff"
       }
     },
     {
