@@ -42,3 +42,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added v0.1.4
 
 - change json key color scheme 4fa0b4 to 62e9ff
+
+### Added v0.1.5
+
+- deepen the background
