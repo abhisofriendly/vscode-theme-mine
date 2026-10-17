@@ -2,20 +2,61 @@
   "name": "lolo-theme",
   "displayName": "lolo",
   "publisher": "abhisofriendly",
-  "description": "cool vibe theme",
-  "version": "0.1.4",
+  "description": "Dark theme. Keep the original lolo look, or pick blue, tide, warm, or violet.",
+  "version": "0.3.1",
+  "license": "MIT",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#12151f",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.66.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "lolo",
+    "color-theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abhisofriendly/vscode-theme-mine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abhisofriendly/vscode-theme-mine/issues"
+  },
+  "homepage": "https://github.com/abhisofriendly/vscode-theme-mine#readme",
+  "qna": "marketplace",
   "contributes": {
     "themes": [
       {
         "label": "lolo theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/lolo theme-color-theme.json"
+        "path": "./themes/lolo-color-theme.json"
+      },
+      {
+        "label": "lolo 2026",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lolo-2026-color-theme.json"
+      },
+      {
+        "label": "lolo Tide",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lolo-tide-color-theme.json"
+      },
+      {
+        "label": "lolo Warm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lolo-warm-color-theme.json"
+      },
+      {
+        "label": "lolo Violet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lolo-violet-color-theme.json"
       }
     ]
   }

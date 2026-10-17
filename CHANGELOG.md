@@ -1,48 +1,37 @@
-# Change Log
+# Changelog
 
-All notable changes to the "abhisofriendly" extension will be documented in this file.
+## 0.3.1
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Changed
 
-## [Unreleased]
+- Replaced **lolo Grey** with **lolo Tide**: an ink background, lavender text, mint strings, and pale blue functions.
 
-- Initial release
+## 0.3.0
 
-### Added v0.0.7
+### Added
 
-- border on sidebar navigation panel
+- **lolo Warm** and **lolo Violet**, plus the first pass of a neutral variant. Same scope coverage as lolo, each with its own palette.
+- The theme picker now has five choices in this extension.
 
-### Added v0.0.8
+### Unchanged
 
-- change tags color from 1495b5 to 19abcf
-- change activity sidebar color 1a1e2d to 21273b
-- change sidebar background color 181b28 to 1f2538
+- **lolo theme** is still the original theme.
+- **lolo 2026** is still the blue refresh.
 
-### Added v0.0.9
+## 0.2.0
 
-- change sidebar background color 1f2538 to 1c1f2e
+### Added
 
-### Added v0.1.0
+- **lolo 2026**, the original syntax colors on a refreshed workbench.
 
-- change inactiveSelectionBackground color from 1b2034 to 29355f for ratina display clear visibility
+### Unchanged
 
-### Added v0.1.1
+- **lolo theme** keeps the colors people already have selected.
 
-- change json key from 1495b5 to 4fa0b4
+## 0.1.x
 
-### Added v0.1.2
+Original theme. Later 0.1 releases deepened the background, clarified selection contrast, and settled the cyan used for JSON keys (`#62e9ff`). The Marketplace build before this refresh was 0.1.6.
 
-- change color scheme 1495b5 to 4fa0b4 globally
+## 0.0.x
 
-### Added v0.1.3
-
-- change inactiveSelectionBackground scheme 1b2034 to 3b4053
-- change selectionBackground 272b3d to 46486e
-
-### Added v0.1.4
-
-- change json key color scheme 4fa0b4 to 62e9ff
-
-### Added v0.1.5
-
-- deepen the background
+First public versions of the sidebar, activity bar, and panel chrome.
